@@ -1,0 +1,131 @@
+
+*{
+	font-family: cairo;
+	padding: 0;
+	margin: 0;
+	scroll-behavior: smooth;
+}
+
+
+	
+/* Menu */
+
+ul li{
+	list-style-type: none;
+	padding-left: 10px;
+	display: inline-block;
+}
+
+
+header{
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+}
+
+
+nav{
+	display: flex;
+	align-items: center;
+	padding: 10px 150px;
+	background-color: white;
+	
+
+	
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.7);
+	transition: 0.5s ease;
+	font-size: 18px;
+	padding: 5px 15px;
+
+}
+
+
+
+
+nav h1{
+	font-weight: bold;
+	font-size: 22px;
+	color: orangered;
+}
+
+
+.mymenu2{
+	margin-left: 400px;
+}
+
+.mymenu1{
+	margin-left: 50px;
+}
+
+
+#start{
+	background-color: orangered;
+	padding: 5px 15px;
+	color: white;
+	border-radius: 5px;
+}
+
+#start:hover{
+	background-color: rgb(198, 69, 55);
+}
+
+ul li a:hover{
+	background-color: rgba(0, 0, 0, 0.1);
+	padding: 5px 15px;
+	border-radius: 5px;
+}
+
+
+
+/* my content */
+
+
+.mytitle{
+	position: absolute;
+	text-align: center;
+	top: 180px;
+}
+
+
+.mytitle h1{
+
+	font-size: 55px;
+	line-height: 68px;
+	font-weight: normal;
+	font-family: 'NeueHaasUnicaW06-Bold';
+
+}
+
+.mytitle p{
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+
+.mytitle #start{
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bolder;
+
+}
+
+
+.mytitle img{
+
+	width:100%;
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
