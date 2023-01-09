@@ -17,8 +17,8 @@ Voici un message apparaître Si les mots de passe n'est pas identique ou l'utili
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<img width="300" alt="Screenshot 2023-01-09 at 18 37 14" src="https://user-images.githubusercontent.com/94865392/211371657-85773558-6923-40de-a540-ddcdca6c5b4c.png">
-<img width="300" alt="Screenshot 2023-01-09 at 18 41 17" src="https://user-images.githubusercontent.com/94865392/211372339-d69ab317-1448-40b9-b249-abd8399c90e9.png">
+<img width="400" alt="Screenshot 2023-01-09 at 18 37 14" src="https://user-images.githubusercontent.com/94865392/211371657-85773558-6923-40de-a540-ddcdca6c5b4c.png">
+<img width="400" alt="Screenshot 2023-01-09 at 18 41 17" src="https://user-images.githubusercontent.com/94865392/211372339-d69ab317-1448-40b9-b249-abd8399c90e9.png">
 </div>
 
 </br></br>
@@ -44,8 +44,8 @@ Vous pouvez aussi restaurer votre compte en cas de problème(mot de passe oubli�
 </br>
 
 <div style="display: flex; padding: 20px;">
-<img width="300" alt="Screenshot 2023-01-09 at 19 38 28" src="https://user-images.githubusercontent.com/94865392/211382922-d3fcd30d-5ca0-43d4-8056-b7ab267f479e.png">
-<img width="300" alt="Screenshot 2023-01-09 at 19 38 40" src="https://user-images.githubusercontent.com/94865392/211382927-ee071ed0-38bd-47cf-bb8d-899641d11fe6.png">
+<img width="400" alt="Screenshot 2023-01-09 at 19 38 28" src="https://user-images.githubusercontent.com/94865392/211382922-d3fcd30d-5ca0-43d4-8056-b7ab267f479e.png">
+<img width="400" alt="Screenshot 2023-01-09 at 19 38 40" src="https://user-images.githubusercontent.com/94865392/211382927-ee071ed0-38bd-47cf-bb8d-899641d11fe6.png">
 </div>
 
 
@@ -58,9 +58,9 @@ Vous pouvez ajouter ou supprimer vos notes 📝 (la suppression et l’ajout des
 </br></br>
 
 <div style="display:flex;">
-<img width="300" alt="Screenshot 2023-01-09 at 14 40 29" src="https://user-images.githubusercontent.com/94865392/211384597-857184c2-587d-4556-8030-8e66e4d13abb.png">
+<img width="400" alt="Screenshot 2023-01-09 at 14 40 29" src="https://user-images.githubusercontent.com/94865392/211384597-857184c2-587d-4556-8030-8e66e4d13abb.png">
 
-<img width="300" alt="Screenshot 2023-01-09 at 14 41 25" src="https://user-images.githubusercontent.com/94865392/211384727-a70b464e-1641-41f8-901e-4670abc5a1e4.png">
+<img width="400" alt="Screenshot 2023-01-09 at 14 41 25" src="https://user-images.githubusercontent.com/94865392/211384727-a70b464e-1641-41f8-901e-4670abc5a1e4.png">
 
 </div>
 </br>
